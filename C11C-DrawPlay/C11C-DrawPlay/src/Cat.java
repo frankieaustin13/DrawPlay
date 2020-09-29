@@ -37,7 +37,8 @@ public class Cat {
 		x += EYE_SEPARATION;
 		g2.fillOval(x, y, EYE_WIDTH, EYE_HEIGHT);
 		// Draw the mouth
-		g2.setColor(Color.lightGray);		//PURPLE ISNT A COLOR APPARENTLY
+		g2.setColor(Color.CYAN);		//PURPLE ISNT A COLOR APPARENTLY
+		//HOW IS LIGHTGRAY NOT A COLOR
 		x = catX + MOUTH_X;
 		y = catY + MOUTH_Y;
 		g2.fillOval(x, y, MOUTH_WIDTH, MOUTH_HEIGHT);
