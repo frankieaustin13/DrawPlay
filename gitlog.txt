@@ -26,3 +26,34 @@ Author: frankieaustin13 <70183803+frankieaustin13@users.noreply.github.com>
 Date:   Tue Sep 29 09:57:31 2020 -0600
 
     Initial commit
+commit df5fdf17b443481fcf9d2c703fd0716513224d9b
+Author: Cooper <cooperfrederick17@gmail.com>
+Date:   Tue Sep 29 10:49:46 2020 -0600
+
+    change cat color and picture size
+
+commit cf43c945d6e2a15d82fed4fc9aaaead8155ff710
+Author: frankieaustin13 <70183803+frankieaustin13@users.noreply.github.com>
+Date:   Tue Sep 29 10:43:11 2020 -0600
+
+    Add files via upload
+    
+    Update gitlog.txt
+
+commit baf71c0886c3d046cba91543e7fe4fe681147bc9
+Author: Frankie Austin <frankieaustin@mymail.mines.edu>
+Date:   Tue Sep 29 10:29:49 2020 -0600
+
+    Add actual code to the project and the gitlog
+
+commit 41f4d783ee2f19d874515b1f8e35a3de3925206c
+Author: Frankie Austin <frankieaustin@mymail.mines.edu>
+Date:   Tue Sep 29 10:17:48 2020 -0600
+
+    text
+
+commit 6d13cf3311666e94b63259b691be07c9afd72ecd
+Author: frankieaustin13 <70183803+frankieaustin13@users.noreply.github.com>
+Date:   Tue Sep 29 09:57:31 2020 -0600
+
+    Initial commit
